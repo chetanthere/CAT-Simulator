@@ -1,2 +1,4 @@
 # CAT-Simulator
-Simulator for CAT Architecture instruction sets performs arithmetic, logical,memory operations and provides functionalities for pipe lining, score board, cache memory and data and control hazards.
+Processor simulator based on CAT Instruction Set architecture.
+Performs basic functionalities like load, store, arithmetic and logical operations.
+Has cache, pipe lining and 1 bit predictor. Handles data and control hazards.
